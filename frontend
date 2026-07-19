@@ -1,1 +1,8 @@
-
+frontend/
+│
+├── app/
+├── components/
+├── lib/
+├── types/
+├── public/
+└── package.json
