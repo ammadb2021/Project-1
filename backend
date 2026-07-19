@@ -1,1 +1,13 @@
-
+backend/
+│
+├── app/
+│   ├── main.py
+│   ├── api/
+│   ├── models/
+│   ├── schemas/
+│   ├── services/
+│   ├── database.py
+│   └── config.py
+│
+├── requirements.txt
+└── Dockerfile
